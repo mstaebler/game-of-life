@@ -1,0 +1,33 @@
+body{
+  background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png)
+}
+
+.wrapper{
+  width:800px;
+  height:800px;
+  background-color:white;
+  margin: 0 auto;
+  padding: 10px;
+  text-align:center;
+}
+
+h1{
+  text-align:center;
+  color:white;
+}
+
+.cell{
+  width:9px;
+  height:9px;
+  border:1px solid black;
+  display:inline-block;
+
+}
+
+.alive{
+  width:7px;
+  height:7px;
+  background-color:black;
+  margin:1px;
+
+}
